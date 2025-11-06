@@ -317,13 +317,6 @@ MIT License Features:
 
     Mobile application interface
 
-<div align="center">
-⭐ If you find this project useful, please give it a star! ⭐
-
-Happy RF Signal Processing! 🎉
-</div> ```
-And here's the LICENSE file:
-text
 
 MIT License
 
@@ -346,35 +339,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Files to upload to GitHub:
-
-    rf_capture_universal.py - Your main Python script
-
-    README.md - The documentation above
-
-    LICENSE - The MIT license text
-
-    Any generated files (optional):
-
-        demo_signal.npy
-
-        demo_signal.json
-
-        models/ folder with trained models
-
-Repository Structure:
-text
-
-Universal-RF-Capture/
-├── rf_capture_universal.py
-├── README.md
-├── LICENSE
-├── demo_signal.npy
-├── demo_signal.json
-└── models/
-    ├── rf_model.joblib
-    ├── rf_scaler.joblib
-    └── rf_classes.json
-
-Your GitHub repository is now ready with professional documentation! 🚀
